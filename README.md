@@ -1,3 +1,3 @@
 JerseyCocoa.github.io
      ---
-     公司...
+     可恶的git config Host
